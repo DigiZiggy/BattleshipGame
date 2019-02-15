@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/Sigrid/RiderProjects/BattleshipVersion2/ConsoleApp/ConsoleApp.csproj",
+    "projectName": "ConsoleApp",
+    "projectPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/ConsoleApp/ConsoleApp.csproj",
+    "outputPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/ConsoleApp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/Sigrid/RiderProjects/BattleshipVersion2/DAL/DAL.csproj": {
+            "projectPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/DAL/DAL.csproj"
+          },
+          "/Users/Sigrid/RiderProjects/BattleshipVersion2/MenuSystem/MenuSystem.csproj": {
+            "projectPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/MenuSystem/MenuSystem.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[2.2.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

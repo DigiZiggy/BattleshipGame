@@ -1,0 +1,16 @@
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/GamePlay.deps.json
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/GamePlay.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/GamePlay.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/Domain.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/obj/Debug/netstandard2.0/GamePlay.csproj.CoreCompileInputs.cache
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/obj/Debug/netstandard2.0/GamePlay.AssemblyInfoInputs.cache
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/obj/Debug/netstandard2.0/GamePlay.AssemblyInfo.cs
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/obj/Debug/netstandard2.0/GamePlay.csproj.CopyComplete
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/obj/Debug/netstandard2.0/GamePlay.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/obj/Debug/netstandard2.0/GamePlay.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/obj/Debug/netstandard2.0/GamePlay.csprojAssemblyReference.cache
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/DAL.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/Initializers.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/Initializers.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/bin/Debug/netstandard2.0/DAL.pdb

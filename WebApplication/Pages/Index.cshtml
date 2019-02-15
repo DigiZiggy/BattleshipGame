@@ -1,0 +1,44 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Battleship";
+}
+
+
+<div id="main">
+    <div class="panel">
+        <div class="topPanel">
+            <div class="layout">
+                <div class='buttons one'>One-Player</div>
+                <div class='buttons load'>Load</div>
+
+                @*<form asp-page-handler="LoadGame" method="post">
+                    <button class='buttons load'>Load</button>
+                </form>*@
+                <div class='buttons settings'>Settings</div>
+                
+            </div>
+        </div>
+        <div class="console">
+            <span class="text"></span>
+            <p id="alert"></p>
+        </div>
+    </div>
+    <div class="board">
+        <div class="displays">
+            <div class="left">
+                <ul class="grid"></ul>
+            </div>
+            <div class="right">
+                <ul class="grid"></ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    SetGame(@Model.canBoatsTouch, @Model.ShipsList, @Model.player);
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+

@@ -1,0 +1,16 @@
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/Initializers.deps.json
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/Initializers.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/Initializers.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/DAL.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/Domain.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/DAL.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/obj/Debug/netstandard2.0/Initializers.csprojAssemblyReference.cache
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/obj/Debug/netstandard2.0/Initializers.csproj.CoreCompileInputs.cache
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/obj/Debug/netstandard2.0/Initializers.AssemblyInfoInputs.cache
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/obj/Debug/netstandard2.0/Initializers.AssemblyInfo.cs
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/obj/Debug/netstandard2.0/Initializers.csproj.CopyComplete
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/obj/Debug/netstandard2.0/Initializers.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/obj/Debug/netstandard2.0/Initializers.pdb
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/System.Data.SqlClient.dll
+/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/bin/Debug/netstandard2.0/System.Data.SqlClient.xml

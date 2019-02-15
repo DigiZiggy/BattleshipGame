@@ -1,0 +1,53 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/Sigrid/RiderProjects/BattleshipVersion2/MenuSystem/MenuSystem.csproj",
+    "projectName": "MenuSystem",
+    "projectPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/MenuSystem/MenuSystem.csproj",
+    "outputPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/MenuSystem/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/Sigrid/RiderProjects/BattleshipVersion2/Domain/Domain.csproj": {
+            "projectPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/Domain/Domain.csproj"
+          },
+          "/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/GamePlay.csproj": {
+            "projectPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/GamePlay/GamePlay.csproj"
+          },
+          "/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/Initializers.csproj": {
+            "projectPath": "/Users/Sigrid/RiderProjects/BattleshipVersion2/Initializers/Initializers.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
